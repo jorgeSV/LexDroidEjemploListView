@@ -4,20 +4,32 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
     
+    <TextView
+	    android:id="@+id/textView01"
+	    android:textSize="20sp"
+	    android:gravity="center_vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"  
+	    android:drawableLeft="@drawable/ic_launcher" android:padding="5dp"
+	    android:drawablePadding="5dp"
+	    />
+    
+    <!--
 	<ImageView 
 	    android:id="@+id/logo01"
-	    android:layout_width="50px"
-	    android:layout_height="50px"
-	    android:layout_marginLeft="5px"
-	    android:layout_marginRight="20px"
-	    android:layout_marginTop="5px"
-	    android:src="@drawable/ic_launcher"/>
-
+	    android:layout_width="50dp"
+	    android:layout_height="50dp"
+	    android:layout_marginLeft="5dp"
+	    android:layout_marginRight="20dp"
+	    android:layout_marginTop="5dp"
+	    android:src="@drawable/ic_launcher"
+	    android:contentDescription="@string/icono"/>
+	
 	<TextView
 	    android:id="@+id/textView01"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
-	    android:text="uno"
 	    android:textSize="20sp" />
+	-->
 	
 </LinearLayout>
