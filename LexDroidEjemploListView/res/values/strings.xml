@@ -3,6 +3,15 @@
 
     <string name="app_name">LexDroidEjemploListView</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="perro">Perro</string>
+    <string name="gato">Gato</string>
+    <string name="caballo">Caballo</string>
+    <string name="conejo">Conejo</string>
+    <string name="leon">León</string>
+    <string name="tigre">Tigre</string>
+    <string name="serpiente">Serpiente</string>
+    <string name="cocodrilo">Cocodrilo</string>
+    <string name="hipopotamo">Hipopótamo</string>
+    <string name="raton">Ratón</string>
 
 </resources>
